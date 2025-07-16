@@ -1,3 +1,8 @@
+
+window.onload = () => {
+  window.scrollTo(0, 0);
+};
+
 // ++++++++++ SHOW MENU ++++++++++ //
 const navMenu = document.getElementById("nav-menu"),
   navToggle = document.getElementById("nav-toggle"),
